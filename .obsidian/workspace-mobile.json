@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating an ANN.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating an ANN"
+              "title": "LICENSE"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "b05767e4eff42113",
   "lastOpenFiles": [
-    "Introduction.md",
     "Creating an ANN.md",
+    "Introduction.md",
     "Creating an ANN/Maths Behind ANNs.md",
     "README.md"
   ]
