@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb79aa7b3b3f496c",
+        "id": "b810ef1da2b936af",
         "type": "tabs",
         "children": [
           {
-            "id": "79d7f48efd4f12b6",
+            "id": "452a141daac5074f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,16 +187,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79d7f48efd4f12b6",
+  "active": "452a141daac5074f",
   "lastOpenFiles": [
-    "Creating an ANN/code/One Hot Vector.md",
+    "Creating an ANN/code/loose functions/Load CSV Dataset.md",
     "Creating an ANN.md",
+    "Creating an ANN/code/Loose Functions.md",
+    "Creating an ANN/code/loose functions",
+    "Creating an ANN/code/loose functions/One Hot Vector.md",
+    "Creating an ANN/Maths Behind ANNs.md",
     "Creating an ANN/code",
     "NOTE.md",
     "Introduction.md",
     "History of ANN.md",
     "LICENSE.md",
-    "README.md",
-    "Creating an ANN/Maths Behind ANNs.md"
+    "README.md"
   ]
 }

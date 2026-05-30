@@ -62,4 +62,4 @@ constexpr float zero = 0.0F;
 > 3. Each image of a handwritten number is turned into a set of 784 floats (for each image is 28x28 pixels) each from value 0 to 255.
 > 4. Each line contains 786 values, the first one is the actual value (0-9) and the next 784 values of pixels, comma separated.
 
-- ***One Hot Vector*** at [[One Hot Vector|Here]].
+- **See _Loose Functions_** [[Loose Functions|Here]].
