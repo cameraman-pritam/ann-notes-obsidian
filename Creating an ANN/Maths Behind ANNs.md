@@ -1,5 +1,5 @@
 ***
-# The Mathematics of Artificial Neural Networks (ANN)
+### The Mathematics of Artificial Neural Networks (ANN)
 
 This note deconstructs the mathematical engine behind a feed-forward Artificial Neural Network, tracing the lifecycle of data from raw input arrays to final weight updates.
 
@@ -8,9 +8,9 @@ Forward propagation is the process of making a prediction. It relies on **Linear
 
 ### The Dimensional Contract
 A neural network layer consists of:
-- **Inputs ($X$)**: A vector representing incoming data (e.g., $784$ pixels of an MNIST image, normalized to $[0.0, 1.0]$).
-- **Weights ($W$)**: A matrix dictating the "importance" of each input connection. For a $784 \rightarrow 10$ layer, this is a $10 \times 784$ matrix.
-- **Biases ($b$)**: A vector acting as a shift or trigger threshold for each neuron.
+- **Inputs ($X$ )**: A vector representing incoming data (e.g., $784$ pixels of an MNIST image, normalized to $[0.0, 1.0]$).
+- **Weights ($W$ )**: A matrix dictating the "importance" of each input connection. For a $784 \rightarrow 10$ layer, this is a $10 \times 784$ matrix.
+- **Biases ($b$ )**: A vector acting as a shift or trigger threshold for each neuron.
 
 ### The Core Equation
 The unactivated output (or pre-activation signal) $Z$ is calculated using a dot product:

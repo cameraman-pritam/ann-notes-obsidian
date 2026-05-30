@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating an ANN/code/One Hot Vector.md",
-                "mode": "source",
+                "file": "Creating an ANN/Maths Behind ANNs.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "One Hot Vector"
+              "title": "Maths Behind ANNs"
             }
           }
         ]
