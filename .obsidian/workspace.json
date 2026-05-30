@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e23face4fb4f661",
+        "id": "fb79aa7b3b3f496c",
         "type": "tabs",
         "children": [
           {
-            "id": "caacbd817e52d27d",
+            "id": "79d7f48efd4f12b6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caacbd817e52d27d",
+  "active": "79d7f48efd4f12b6",
   "lastOpenFiles": [
     "Creating an ANN/code/One Hot Vector.md",
     "Creating an ANN.md",
