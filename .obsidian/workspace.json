@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f734aaf6d4e2ab13",
+        "id": "c7196b906ed12a3f",
         "type": "tabs",
         "children": [
           {
-            "id": "537f4ba5b0f8838d",
+            "id": "2a6e9800268a0f80",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,8 +187,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "537f4ba5b0f8838d",
+  "active": "2a6e9800268a0f80",
   "lastOpenFiles": [
+    "README.md",
     "Introduction.md",
     "Creating an ANN/Maths Behind ANNs.md",
     "Creating an ANN.md"
