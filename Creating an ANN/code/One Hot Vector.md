@@ -18,4 +18,4 @@ return one_hot;
 
 - `classes` is the number of neurons to alter.
 - Each neuron gives a decimal value, which is the probability of the result being that value.
-- the `createOneHotVector` turns a integer value (the Label from the first entry of the CSV) into a vector, to be easily compared. (eg. `5` is turned into `[0,0,0,0,0,5,0,0,0,0]` [`one_hot[5] = 5`])
+- the `createOneHotVector` turns a integer value (the Label from the first entry of the CSV) into a vector, to be easily compared. (eg. `5` is turned into `[0,0,0,0,0,1.0,0,0,0,0]` `one_hot[5] = 1.0F`)
