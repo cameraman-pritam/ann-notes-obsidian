@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +193,8 @@
   },
   "active": "452a141daac5074f",
   "lastOpenFiles": [
-    "Creating an ANN/code/loose functions/One Hot Vector.md",
     "Creating an ANN/code/loose functions/Load CSV Dataset.md",
+    "Creating an ANN/code/loose functions/One Hot Vector.md",
     "Creating an ANN/Maths Behind ANNs.md",
     "Creating an ANN.md",
     "Creating an ANN/code/Loose Functions.md",
