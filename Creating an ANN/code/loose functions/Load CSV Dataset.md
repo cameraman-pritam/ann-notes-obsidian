@@ -116,4 +116,6 @@ cout << " Loaded " << count << " samples...\n";
 4. `getline` parses `ss` as an ordinary file, reads upto the first comma, stores the string in `value`. The label `value` is assigned to an integer variable.
 5. `pixels.reserve(784)` tells the machine to already keep 784 reserved spaces in the RAM. Thus, the entire image binary can be easily moved instead of running time for reallocation of space.
 6. The `while` loop again recursevely check for all next values (comma-separated) and then _normalise_ them (divide by 255){So that all values are within 0 to 1} and then push it to the vector. 
-7. `inputs` 
+7. `inputs.push_back` moves the entire input image to the matrix.
+8. `actuals.push_back` moves the entire one hot answer.
+9. `count` is increased and thus a count is kept of how many samples are loaded

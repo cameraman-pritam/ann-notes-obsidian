@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating an ANN/Maths Behind ANNs.md",
+                "file": "Creating an ANN/code/loose functions/Load CSV Dataset.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maths Behind ANNs"
+              "title": "Load CSV Dataset"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Introduction.md",
+            "file": "Creating an ANN/code/loose functions/Load CSV Dataset.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,11 +170,11 @@
   },
   "active": "c86171d172fa7d57",
   "lastOpenFiles": [
+    "Creating an ANN/Maths Behind ANNs.md",
     "Creating an ANN/code/One Hot Vector.md",
     "Creating an ANN.md",
     "LICENSE.md",
     "Introduction.md",
-    "Creating an ANN/Maths Behind ANNs.md",
     "README.md"
   ]
 }
