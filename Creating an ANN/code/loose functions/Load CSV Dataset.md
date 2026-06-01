@@ -119,3 +119,5 @@ cout << " Loaded " << count << " samples...\n";
 7. `inputs.push_back` moves the entire input image to the matrix.
 8. `actuals.push_back` moves the entire one hot answer.
 9. `count` is increased and thus a count is kept of how many samples are loaded
+
+**After Function is run**, the total number of samples loaded is printed, and it returns `true`.
