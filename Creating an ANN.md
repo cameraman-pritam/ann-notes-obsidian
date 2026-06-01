@@ -63,3 +63,4 @@ constexpr float zero = 0.0F;
 > 4. Each line contains 786 values, the first one is the actual value (0-9) and the next 784 values of pixels, comma separated.
 
 - **See _Loose Functions_** [[Loose Functions|Here]].
+- ***See OOP*** [[ANN Class]]
