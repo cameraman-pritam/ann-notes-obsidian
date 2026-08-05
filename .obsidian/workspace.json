@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f55adc89cf613c1c",
+        "id": "16267d99398d804f",
         "type": "tabs",
         "children": [
           {
-            "id": "f918ebf3c993964b",
+            "id": "16065d9eb4b955b8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -187,13 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f918ebf3c993964b",
+  "active": "16065d9eb4b955b8",
   "lastOpenFiles": [
+    "Creating an ANN/code/ANN Class/Private/Matrix Multiplication.md",
     "Creating an ANN.md",
     "Creating an ANN/code/ANN Class/Private/Private.md",
     "Creating an ANN/code/ANN Class/ANN Class.md",
     "Creating an ANN/code/ANN Class/Private/Derivation of ReLU.md",
-    "Creating an ANN/code/ANN Class/Private/Matrix Multiplication.md",
     "Creating an ANN/code/ANN Class/Private/Initialise Matrix an Bias.md",
     "Creating an ANN/code/ANN Class/Private/Private Variables.md",
     "Creating an ANN/code/Loose Functions.md",
